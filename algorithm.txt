@@ -1,0 +1,15 @@
+PROSES ORDER MAKANAN/MINUMAN VIA ONLINE
+
+1.	Mulai
+2.	Pelanggan Login
+3.	Pelanggan memilih makanan/minuman 
+4.	Pelanggan melakukan verifikasi pesanan
+5.	Pelanggan melakukan verifikasi identitasnya
+6.	Pelanggan memilih diantar ke alamat atau Pelanggan jemput ke tempat
+7.	pelanggan memilih metode pembayaran
+8.	Pelanggan melakukan order
+9.	Sistem mengirim pesanan kepada Penjual
+10.	Penjual menerima pesanan
+11.	Sistem mengirim pesan kepada Pelanggan bahwa pesanan telah diterima
+1.	dan dapat diambil sesuai waktu yang telah dibuat sebelumnya
+12.	Selesai
